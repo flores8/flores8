@@ -2,7 +2,7 @@
 
 :woman_technologist: I'm a product manager, designer, and user experience professional.
 - You can learn more about me on [my personal website](https://www.lauraleeflores.com/)
-- Here is some of [my design work](https://lauralee.design/)
+- Or check out some of [my designs](https://lauralee.design/)
 
 
 <!--
