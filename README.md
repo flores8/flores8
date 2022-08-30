@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:woman_technologist: I'm a product manager, designer, and user experience professional.
+:woman_technologist: I'm a product designer and user experience professional.
 - You can learn more about me on [my personal website](https://www.lauraleeflores.com/)
 - Or check out some of [my designs](https://lauralee.design/)
 
